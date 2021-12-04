@@ -5,12 +5,15 @@
 # new theming for November 2021
 
 ##### Edit /etc/default/grub :
+
 ```shell
 GRUB_THEME="/boot/grub/themes/EndeavourOS/theme.txt"
 ```
 ##### Update grub :
+
 ```shell
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
-<img src="https://raw.githubusercontent.com/endeavouros-team/grub2-theme-endeavouros/nov21/preview.png" alt="preview" width="600"/>
+
+<img src="https://raw.githubusercontent.com/endeavouros-team/grub2-theme-endeavouros/preview.png" alt="preview" width="600"/>
 
