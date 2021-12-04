@@ -15,5 +15,5 @@ GRUB_THEME="/boot/grub/themes/EndeavourOS/theme.txt"
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
-<img src="https://raw.githubusercontent.com/endeavouros-team/grub2-theme-endeavouros/Atlantis-21_4/preview.png" alt="preview" width="600"/>
+<img src="https://raw.githubusercontent.com/endeavouros-team/grub2-theme-endeavouros/Atlantis-21_4/preview.png" alt="preview"/>
 
